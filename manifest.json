@@ -1,0 +1,40 @@
+{
+  "background_color": "#ffffff",
+  "description": "Inicio     Vagas de Emprego     Cursos Gratuitos     Empresas",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Vagas Empregos Itapipoca",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Vagas Empregos Itapipoca",
+  "start_url": "https://sites.google.com/view/vagas-emprego-itapipoca/home?authuser=3",
+  "theme_color": "#005fff",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/APaQ0SQ-_iI79fl6lt23F6g6tYFMiM0U6lVTtcNrtDGQChRxggcPZkR6TOgb_z2XndFe0DzO2F6co_F2TbUt4_YNBIdTzC4gXjxShR0nC4f9oOAJwsD2FhTT2Yr37-iBD_FpupmZ82PWpH2CU8K787gU2tbotGqSaqBxJ2vcLRq-NCTdPW6bLuvpf1GBpL95v6jX-pFdEJENW_IACQb8ZjHTDA",
+      "type": "image/png",
+      "sizes": "192x192",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 192,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": true
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/APaQ0SSP3Dj-Rx-bBSmwn4FOzhxvjVw_yC19ujBnSvyhN5N8HsX7_PVukhhbUpZzcDgm_2SLlfjxCyRgxhPWGB_siTr3W7U47OL5bILBsqdDInrtTlEUzXVfKreouFa2qAga5Ho8CfvULj6mj5L4VBgmkRt7xhLluK-v0MwWbr3JpYHX_KertfHk67KD3MI=w16383",
+      "type": "image/png",
+      "sizes": "512x512",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 512,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
